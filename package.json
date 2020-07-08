@@ -1,0 +1,28 @@
+{
+  "name": "nodeJS-Socket-IO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IVBC/nodeJS-Socket-IO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IVBC/nodeJS-Socket-IO/issues"
+  },
+  "homepage": "https://github.com/IVBC/nodeJS-Socket-IO#readme",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "utf-8-validate": "^5.0.2",
+    "ws": "^7.3.1"
+  }
+}
